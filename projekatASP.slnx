@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Application/Application.csproj" />
+  <Project Path="DataAccess/DataAccess.csproj" />
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="Implementation/Implementation.csproj" />
+  <Project Path="projekatASP/projekatASP.API.csproj" />
+</Solution>
